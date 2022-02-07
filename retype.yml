@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: bikedao.org
+
+branding:
+  title: BikeDAO
+  logo: /static/bikedao-logo.svg
+  logoDark: /static/bikedao-logo-dark.svg
+
+footer:
+  copyright: "&copy; Copyright BikeDAO {{ year }}. All rights reserved."
